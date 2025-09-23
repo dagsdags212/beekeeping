@@ -10,6 +10,8 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: index.md
+    - file: pages/background.md
+    - file: pages/lib.md
     - file: proposal.md
     
 site:
