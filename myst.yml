@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 3eaef8d5-d0b8-43e1-8f18-ec51fd6c15e3
+  title: Calauan Bee Farm
+  description: Beekeeping Business Proposal 
+  keywords: [beekeeping, agriculture, agribusiness]
+  authors: [Jan Emmanuel Samson]
+  # github:
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc:
+    - file: index.md
+    - file: proposal.md
+    
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
