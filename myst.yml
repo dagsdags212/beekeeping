@@ -11,8 +11,11 @@ project:
   toc:
     - file: index.md
     - file: pages/background.md
+    #- file: pages/bees.md
     - file: pages/lib.md
+    - file: pages/equipment.md
     - file: proposal.md
+    # - file: resources.md
     
 site:
   template: book-theme
