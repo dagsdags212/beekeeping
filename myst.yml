@@ -14,7 +14,8 @@ project:
     #- file: pages/bees.md
     - file: pages/lib.md
     - file: pages/equipment.md
-    - file: proposal.md
+    - file: pages/proposal.md
+    - file: pages/deliverables.md
     # - file: resources.md
     
 site:
